@@ -52,11 +52,23 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmFormularios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFormularios.Designer.cs">
+      <DependentUpon>frmFormularios.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmHerramientas.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmHerramientas.Designer.cs">
       <DependentUpon>frmHerramientas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModulos.Designer.cs">
+      <DependentUpon>frmModulos.cs</DependentUpon>
     </Compile>
     <Compile Include="frmRefacciones.cs">
       <SubType>Form</SubType>
@@ -75,8 +87,14 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmFormularios.resx">
+      <DependentUpon>frmFormularios.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmHerramientas.resx">
       <DependentUpon>frmHerramientas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModulos.resx">
+      <DependentUpon>frmModulos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmRefacciones.resx">
       <DependentUpon>frmRefacciones.cs</DependentUpon>
