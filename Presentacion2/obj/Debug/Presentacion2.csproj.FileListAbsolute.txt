@@ -1,0 +1,11 @@
+C:\Users\adan_\source\repos\Presentacion2\Presentacion2\bin\Debug\Presentacion2.exe.config
+C:\Users\adan_\source\repos\Presentacion2\Presentacion2\bin\Debug\Presentacion2.exe
+C:\Users\adan_\source\repos\Presentacion2\Presentacion2\bin\Debug\Presentacion2.pdb
+C:\Users\adan_\source\repos\Presentacion2\Presentacion2\obj\Debug\Presentacion2.csproj.AssemblyReference.cache
+C:\Users\adan_\source\repos\Presentacion2\Presentacion2\obj\Debug\Presentacion2.Form1.resources
+C:\Users\adan_\source\repos\Presentacion2\Presentacion2\obj\Debug\Presentacion2.Properties.Resources.resources
+C:\Users\adan_\source\repos\Presentacion2\Presentacion2\obj\Debug\Presentacion2.csproj.GenerateResource.cache
+C:\Users\adan_\source\repos\Presentacion2\Presentacion2\obj\Debug\Presentacion2.csproj.CoreCompileInputs.cache
+C:\Users\adan_\source\repos\Presentacion2\Presentacion2\obj\Debug\Presentacion2.exe
+C:\Users\adan_\source\repos\Presentacion2\Presentacion2\obj\Debug\Presentacion2.pdb
+C:\Users\adan_\source\repos\Presentacion2\Presentacion2\obj\Debug\Presentacion2.frmUsuarios.resources
