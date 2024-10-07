@@ -61,6 +61,7 @@
             this.txtContraseña.Name = "txtContraseña";
             this.txtContraseña.Size = new System.Drawing.Size(243, 26);
             this.txtContraseña.TabIndex = 2;
+            this.txtContraseña.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtUsuario
             // 
@@ -68,6 +69,7 @@
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(243, 26);
             this.txtUsuario.TabIndex = 1;
+            this.txtUsuario.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label1
             // 
@@ -92,6 +94,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(560, 532);
+            this.ControlBox = false;
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtUsuario);

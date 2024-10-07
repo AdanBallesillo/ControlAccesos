@@ -52,6 +52,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmHerramientas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHerramientas.Designer.cs">
+      <DependentUpon>frmHerramientas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRefacciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRefacciones.Designer.cs">
+      <DependentUpon>frmRefacciones.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmUsuarios.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +74,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHerramientas.resx">
+      <DependentUpon>frmHerramientas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRefacciones.resx">
+      <DependentUpon>frmRefacciones.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmUsuarios.resx">
       <DependentUpon>frmUsuarios.cs</DependentUpon>

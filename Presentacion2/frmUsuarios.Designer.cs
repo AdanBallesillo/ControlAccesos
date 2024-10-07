@@ -115,6 +115,7 @@
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(198, 26);
             this.txtNombre.TabIndex = 1;
+            this.txtNombre.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtApellidoP
             // 
@@ -122,6 +123,7 @@
             this.txtApellidoP.Name = "txtApellidoP";
             this.txtApellidoP.Size = new System.Drawing.Size(198, 26);
             this.txtApellidoP.TabIndex = 2;
+            this.txtApellidoP.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtApellidoM
             // 
@@ -129,6 +131,7 @@
             this.txtApellidoM.Name = "txtApellidoM";
             this.txtApellidoM.Size = new System.Drawing.Size(198, 26);
             this.txtApellidoM.TabIndex = 3;
+            this.txtApellidoM.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtFrc
             // 
@@ -136,6 +139,7 @@
             this.txtFrc.Name = "txtFrc";
             this.txtFrc.Size = new System.Drawing.Size(198, 26);
             this.txtFrc.TabIndex = 5;
+            this.txtFrc.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtUsuario
             // 
@@ -143,6 +147,7 @@
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(198, 26);
             this.txtUsuario.TabIndex = 6;
+            this.txtUsuario.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtContraseña
             // 
@@ -150,6 +155,7 @@
             this.txtContraseña.Name = "txtContraseña";
             this.txtContraseña.Size = new System.Drawing.Size(198, 26);
             this.txtContraseña.TabIndex = 7;
+            this.txtContraseña.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // dtpNacimiento
             // 
