@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace Presentacion2
 {
-    public partial class frmFormularios : Form
+    public partial class frmPermisos : Form
     {
-        public frmFormularios()
+        public frmPermisos()
         {
             InitializeComponent();
         }
 
-        private void btnCancelar_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
             Close();
         }
