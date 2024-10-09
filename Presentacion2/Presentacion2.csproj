@@ -88,6 +88,42 @@
     <Compile Include="frmUsuarios.Designer.cs">
       <DependentUpon>frmUsuarios.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmVerFormularios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerFormularios.Designer.cs">
+      <DependentUpon>frmVerFormularios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerHerramientas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerHerramientas.Designer.cs">
+      <DependentUpon>frmVerHerramientas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerModulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerModulos.Designer.cs">
+      <DependentUpon>frmVerModulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerPermisos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerPermisos.Designer.cs">
+      <DependentUpon>frmVerPermisos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerRefacciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerRefacciones.Designer.cs">
+      <DependentUpon>frmVerRefacciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerUsuarios.Designer.cs">
+      <DependentUpon>frmVerUsuarios.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -110,6 +146,24 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmUsuarios.resx">
       <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerFormularios.resx">
+      <DependentUpon>frmVerFormularios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerHerramientas.resx">
+      <DependentUpon>frmVerHerramientas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerModulos.resx">
+      <DependentUpon>frmVerModulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerPermisos.resx">
+      <DependentUpon>frmVerPermisos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerRefacciones.resx">
+      <DependentUpon>frmVerRefacciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerUsuarios.resx">
+      <DependentUpon>frmVerUsuarios.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
